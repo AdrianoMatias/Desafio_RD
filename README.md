@@ -1,4 +1,4 @@
-<h1>APP Ajuda Povo!</h1>
+<h1>Desafio Front-end React!</h1>
 <h2>Executar o projeto web</h2>
 
 <ol>
