@@ -9,9 +9,5 @@
 </ol>
 <hr>
 
-<h2>Executar o projeto mobile</h2>
-
-<hr>
-
 <h2>Landing Page</h2>
 <img src="https://github.com/AdrianoMatias/Desafio_RD/blob/master/Capa_RD.PNG" title="Capa" alt="landing page">
