@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Cards = styled.li `
+export const Cards = styled.ul `
         display: grid;
         grid-template-columns: 1fr;
         grid-gap: 20px;
@@ -10,24 +10,37 @@ export const Cards = styled.li `
         @media (min-width: 900px) {
             grid-template-columns: repeat(3, 1fr);
         }
-   
-    li {
-        margin-top: 1rem;
+
+    #rosa {
         display: flex;
         flex-direction: column;
         background: #fff;
-        border-radius: 4px;
     }
 
+    #amarelo {
+        display: flex;
+        flex-direction: column;
+        background: #fff;
+        height: 395px;
+    }
+
+    #roxo {
+        display: flex;
+        flex-direction: column;
+        background: #fff;
+        height: 395px;
+    }
+
+    
     img {
         align-self: center;
     }
 
-
-    p {
+    h3 {
+    
         color: #fff;
         margin: 20px;
-        font-size: 1.4rem;
+        font-size: 1.3rem;
         font-family: 'Open Sans', sans-serif;
   }
 
